@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+main h1 {
+    text-align: center;
+}
+
+img#bolo {
+    max-width: 500px;
+    margin: auto;
+}
